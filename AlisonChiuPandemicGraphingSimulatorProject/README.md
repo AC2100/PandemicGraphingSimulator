@@ -2,7 +2,7 @@ Pandemic Graphing Simulator
 https://alisonchiu.qoom.space/~/PandemicGraphingSimulatorProject
 ==================
 ## What this project does
-Users can give the project the unit of time, name, data, etc. of a pandemic, and the program will take the information given, and produce a graph for the user (including the abiltiy to view points at different parts of the graph).
+Users can give the project the unit of time, name, data, etc. of a pandemic, and the program will take the information given, and produce a graph for the user (including the ability to view points at different parts of the graph).
 ## Why this project is useful
 This project aims to aid people who need to understand data in a visual way. It helps people overall understand and visualize a pandemic overall.
 ## How I built this 
