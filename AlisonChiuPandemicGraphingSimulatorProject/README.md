@@ -1,4 +1,5 @@
 Pandemic Graphing Simulator
+Please use the actual link/my GitHub, and not the individual files in this folder:
 https://alisonchiu.qoom.space/~/PandemicGraphingSimulatorProject
 ==================
 ## What this project does
