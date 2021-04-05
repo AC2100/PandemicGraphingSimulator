@@ -68,7 +68,7 @@ function drawChart(line = 'Coronavirus', yaxis = 'Y-axis', xaxis="Years", x1=0, 
 		
 		var options ={hAxis: 
 			{title: xaxis,
-			direction:-1, 
+			direction:1, 
 			slantedText:true, 
 			slantedTextAngle:90
 			}};
