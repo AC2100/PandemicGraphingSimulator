@@ -1,0 +1,62 @@
+h1 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+body {
+	position: relative;
+	text-align: center;
+}
+
+
+#chart {
+	margin-left: 1000;
+}
+
+#title {
+	margin-top: 100px;
+}
+
+#textboxHeading, #enterButton {
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 50px;
+	padding-top: 10px;
+} 
+
+#radioHeading {
+	margin-right: 10px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+
+input {
+	display:inline-block;
+	font-size: 14px;
+	margin-left: 115px;
+}
+
+#datapoints {
+	margin-right: 10px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+
+#description {
+	padding-top: 425px;
+	font-family: Times New Roman;
+	margin-left: 20px;
+	position:static;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+#chart {
+	margin-left: 155px;
+}
+
+script {
+	position: relative;
+	text-align: center;
+}
